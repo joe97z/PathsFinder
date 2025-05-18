@@ -5,7 +5,7 @@
 	  <ImplicitUsings>enable</ImplicitUsings>
 	  <Nullable>enable</Nullable>
 	  <PackageId>PathsFinder</PackageId>
-	  <Version>2.0.1</Version>
+	  <Version>2.0.2</Version>
 	  <Authors>Hovsep Dishoyan</Authors>
 	  <Description>A library for Finding Shortest Paths using Geocoodinates</Description>
 	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
